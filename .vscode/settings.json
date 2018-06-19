@@ -1,0 +1,6 @@
+{
+    "python.linting.flake8Enabled": true,
+    "python.linting.flake8Path": "~/.virtualenvs/django_address_book/bin/flake8",
+    "python.linting.pylintEnabled": false,
+    "python.pythonPath": "~/.virtualenvs/django_address_book/bin/python"
+}
